@@ -10,4 +10,4 @@ Simon Says is a classic memory game that challenges players to repeat a sequence
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript.
